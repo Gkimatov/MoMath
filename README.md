@@ -1,5 +1,5 @@
 # MoMath Hackathon 2017: Be Green
-#### Saving the Earth One Tile at a Time
+#### Fill a row with green by stepping on adjacent tiles
 
 Math Square Behavior
 
