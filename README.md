@@ -1,5 +1,6 @@
 # MoMath Hackathon 2017: Be Green
 Math Square Behavior
+
 Jackie Woo and Greg Kimatov
 
 ## The Math
