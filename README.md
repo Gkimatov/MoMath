@@ -1,4 +1,6 @@
 # MoMath Hackathon 2017: Be Green
+Saving the Earth One Tile at a Time
+
 Math Square Behavior
 
 Jackie Woo and Greg Kimatov
