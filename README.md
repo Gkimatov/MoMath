@@ -11,5 +11,5 @@ We hope that participants will be able to find the 'trick' for knowing which row
 
 ## Notes
 There is a small bug where the tile colors doesn't switch one time when a participant stands on adjacent tiles; they keep switching rapidly between green and white.
-We also noticed that sometimes the participant steps are sometimes not detected when the program is first run. We advise that you let the program run for about 30 seconds and test it again.
+We also noticed that sometimes the participant steps are sometimes not detected when the program is first run. We advise that you let the program run for about 15 seconds and test it again.
  
